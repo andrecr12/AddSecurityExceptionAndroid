@@ -1,0 +1,6 @@
+.DS_Store
+
+apks/*.apk
+*.keystore
+
+readme_andre.txt
